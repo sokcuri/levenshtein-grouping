@@ -1,5 +1,6 @@
 편집 거리 알고리즘 (Levenshtein 알고리즘)을 이용해서 파일들을 그룹핑하는 예제입니다
-데이터는 냐토렌트 (https://nyaa.si)에서, 그룹핑을 위한 필터 함수는 Stackoverflow [Group similar strings from an array in Node.js](https://stackoverflow.com/questions/42213194/group-similar-strings-from-an-array-in-node-js) 토픽에서 가져왔습니다.
+
+데이터는 냐토렌트 (https://nyaa.si)에서, 그룹핑을 위한 필터 함수는 스택오버플로우의 [Group similar strings from an array in Node.js](https://stackoverflow.com/questions/42213194/group-similar-strings-from-an-array-in-node-js) 토픽에서 가져왔습니다.
 
 ### How to run
 ```
