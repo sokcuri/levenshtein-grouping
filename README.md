@@ -8,6 +8,43 @@ npm install
 npm start
 ```
 
+### Input
+```
+...
+    "[Ohys-Raws] Grimms Notes The Animation - 01 (TBS 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Go-Toubun no Hanayome - 01 (TBS 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Yakusoku no Neverland - 01 (CX 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Bang Dream! 2nd Season - 02 (AT-X 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Girly Air Force - 01 (AT-X 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Karakuri Circus - 13 (MX 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Kirakira Happy Hirake! Cocotama - 18 (TX 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Aikatsu Friends! - 39 (TX 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Revisions - 01 (CX 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Virtual-san wa Miteiru - 01 (MX 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Kemurikusa (2019) - 01 (BSFUJI 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Meiji Tokyo Renka - 01 (MX 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Doukyonin wa Hiza, Tokidoki, Atama no Ue. - 01 (AT-X 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Tate no Yuusha no Nariagari - 01 (AT-X 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Kakegurui XX - 01 (MBS 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] 3D Kanojo Real Girl (2019) - 01 (NTV 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Kaze ga Tsuyoku Fuite Iru - 12 (NTV 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Ame-iro Cocoa Side G - 01 (MX 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Rinshi!! Ekoda-chan - 01 (MX 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Circlet Princess - 01 (MX 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Kemono Friends 2 - TVSP (TX 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Watashi ni Tenshi ga Maiorita! - 01 (AT-X 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Black Clover - 65 (TX 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Pastel Memories - 01 (BSFUJI 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Tensei Shitara Slime Datta Ken - 14 (BS11 1920x1080 x264 AAC).mp4",
+    "[Ohys-Raws] Tensei Shitara Slime Datta Ken - 14 (BS11 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Mob Psycho 100 II - 01 (MX 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Dororo (2019) - 01 (MX 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Papa Datte, Shitai - 01 (MX 1280x720 x264 AAC).mp4",
+    "[Ohys-Raws] Ueno-san wa Bukiyou - 01 (BS11 1280x720 x264 AAC).mp4",
+...
+```
+
+
 ### Result
 ```
 ...
